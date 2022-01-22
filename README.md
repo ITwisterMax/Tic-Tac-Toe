@@ -1,2 +1,4 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe game
+# TicTacToe
+TicTacToe game
+
+Delphi TicTacToe game.
