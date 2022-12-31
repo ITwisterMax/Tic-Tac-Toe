@@ -1,4 +1,4 @@
 # TicTacToe
-TicTacToe game
+TicTacToe Game
 
 Delphi TicTacToe game.
